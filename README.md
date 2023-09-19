@@ -8,5 +8,5 @@ This is the repository for National Taipei University of Technology (NTUT) depar
 
 
 ### 3D object tracking by CenterTrack
-![image](https://github.com/5254ntut/NTUT_Perception_Laboratory_Introdution/blob/main/pic/default_1_2022-05-11.gif)
+![](https://github.com/5254ntut/NTUT_Perception_Laboratory_Introdution/blob/main/pic/default_1_2022-05-11.gif)
 
